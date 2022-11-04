@@ -1,9 +1,10 @@
 {
   "name": "slot-online-999",
   "main": "./lib/slot-online-999",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "เว็บสล็อตออนไลน์ สล็อต slot999 สล็อต999 อันดับ1 ของไทย",
-  "keywords": ["สล็อค,สล็อตออนไลน์,slot online,slot,slot99"
+  "keywords": [
+    "สล็อค,สล็อตออนไลน์,slot online,slot,slot99"
   ],
   "activationCommands": {
     "atom-workspace": "slot-online-999:toggle"
@@ -13,6 +14,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
