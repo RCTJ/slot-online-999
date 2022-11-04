@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-online-999",
+        "command": "slot-online-999:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-online-999",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-online-999:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
